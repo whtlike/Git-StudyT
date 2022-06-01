@@ -12,5 +12,6 @@ public class App
         System.out.println( "Hello World!1111" );
         System.out.println( "Hello World!1222221" );
         System.out.println( "Hello World!1111" );
+        System.out.println( "push World!1111" );
     }
 }
